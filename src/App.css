@@ -1,0 +1,48 @@
+/* APP ROOT */
+.App {
+  text-align: center;
+  background: linear-gradient(135deg, #ffe6f0 0%, #fdf6f9 100%); /* soft pink gradient */
+  min-height: 100vh;
+  font-family: 'Playfair Display', serif;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Hide scrollbar in Webkit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+/* Hide scrollbar in Firefox */
+html {
+  scrollbar-width: none; /* hides scrollbar */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+
+/* BODY RESET */
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0;
+  font-family: 'Playfair Display', serif;
+  background: linear-gradient(135deg, #ffe6f0 0%, #fdf6f9 100%);
+  min-height: 100vh;
+  color: #333;
+}
+
+/* PAGE CONTAINER */
+.page-container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 80px auto 40px auto; /* balanced spacing below header */
+  padding: 0 20px;
+  font-family: 'Playfair Display', serif;
+  color: #333;
+  background: rgba(255, 255, 255, 0.7); /* subtle card effect */
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+}
