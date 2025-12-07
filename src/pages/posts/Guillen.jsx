@@ -60,7 +60,7 @@ const Guillen = () => {
               alt="Guillen Plantaciones View 1"
               style={{ maxWidth: "300px", width: "100%", height: "auto", borderRadius: "12px" }}
             />
-            <figcaption>Main Area and Infinity Pool</figcaption>
+            <figcaption>Entrance</figcaption>
           </figure>
 
           <figure>

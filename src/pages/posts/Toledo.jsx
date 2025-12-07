@@ -27,24 +27,40 @@ const Toledo = () => {
         {/* INTRO */}
         <div className="post-content">
           <p>
-            During our trip to Toledo City, we visited a family friend who lives right by the sea.
-            At first, we just relaxed and watched the waves, letting the calm rhythm of the water
-            set the pace for the afternoon. The coastline was simple yet picturesque, with gentle
-            waves lapping at the shore and a light breeze carrying the salty scent of the sea.
+            During our trip to Toledo City, we visited a family friend who lives near the coastline. 
+            The shoreline in this area is characterized by a shallow intertidal zone where gentle 
+            waves consistently break along the sandy surface. This steady movement of water helps 
+            regulate temperature along the coast and produces the rhythmic sound commonly associated 
+            with open shorelines.
           </p>
 
           <p>
-            Eventually, we decided to take a swim. The water was cold but refreshing and immediately
-            felt rejuvenating. Swimming along the shallow shore, I noticed how the sunlight reflected
-            on the rippling water, creating sparkling patterns that danced across the sand.
+            At first, we spent time observing the natural features of the area. The waves moved in a 
+            continuous pattern caused by the interaction of wind friction and surface tension. The breeze 
+            carried a noticeable saline odor, which is typical in coastal environments due to the evaporation 
+            of seawater that leaves salt particles suspended in the air.
           </p>
 
           <p>
-            Later, we enjoyed grilled food while observing local activities. Many residents were also
-            spending time by the coast. Some were swimming, others chatting, and some just relaxing
-            by the water. It was fascinating to see how the community uses the shoreline for both
-            leisure and social interaction. The experience was a blend of simple enjoyment, natural
-            beauty, and a glimpse into local coastal life.
+            We eventually decided to swim. The water felt cold because shallow coastal waters cool 
+            quickly when exposed to steady wind flow. Sunlight created reflective patterns on the 
+            surface of the water. These patterns are formed when light bends as it passes through 
+            moving waves, producing shifting highlights on the sand beneath.
+          </p>
+
+          <p>
+            Local community activity was also visible along the shoreline. Some residents were swimming, 
+            while others were resting or preparing food. Coastal communities often use open shores for 
+            social gathering and small-scale recreation because these areas provide accessible space 
+            and natural ventilation. The activities we observed reflected how residents interact with 
+            their environment and how the shoreline functions as both a natural resource and a communal 
+            space.
+          </p>
+
+          <p>
+            Overall, the visit combined simple leisure with an opportunity to observe the characteristics 
+            of a coastal ecosystem. The experience showed how natural elements such as wind, water 
+            movement, and sunlight shape the environment and influence how people use the area.
           </p>
         </div>
 
